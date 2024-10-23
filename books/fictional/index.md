@@ -8,5 +8,5 @@ permalink: "books/fictional"
 
 
 
-<div style="text-align: center;" markdown="1"> [Books](../index.md) 
+<div style="text-align: center;" markdown="1"> [Books](books) 
 </div>  
