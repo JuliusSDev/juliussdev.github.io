@@ -2,6 +2,7 @@
 layout: default
 title: "Fictional books"
 permalink: "books/fictional"
+tags: [fictional, books]
 ---
 
 # Fictional books

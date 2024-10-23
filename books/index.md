@@ -2,6 +2,7 @@
 layout: default
 title: "books"
 permalink: "books"
+tags: [books]
 ---
 
 # Books

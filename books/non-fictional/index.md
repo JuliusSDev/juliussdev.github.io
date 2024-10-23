@@ -2,6 +2,7 @@
 layout: default
 title: "Non-fictional books"
 permalink: "books/non-fictional"
+tags: [non-fictional, books]
 ---
 
 # Non-fictional books
