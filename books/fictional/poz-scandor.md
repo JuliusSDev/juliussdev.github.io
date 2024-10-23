@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Scandor"
-permalink: "books/fictional/poz-scandor.md"
+permalink: "books/fictional"
 tags: [fictional, books, Lügendetektor]
 author: Ursula Poznanski
 ---
