@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: https://juliussdev.github.io/
+permalink: /
 ---
 
 
-- [Books](https://juliussdev.github.io/books/index.md)
-- [Papers](https://juliussdev.github.io/papers/index.md)
+- [Books](books)
+- [Papers](papers)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Fictional books"
-permalink: "https://juliussdev.github.io/books/fictional/index.md"
+permalink: "books/fictional"
 ---
 
 # Fictional books

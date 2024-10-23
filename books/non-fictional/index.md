@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Non-fictional books"
-permalink: "https://juliussdev.github.io/books/non-fictional/index.md"
+permalink: "books/non-fictional"
 ---
 
 # Non-fictional books
