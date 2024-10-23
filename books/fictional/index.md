@@ -7,7 +7,8 @@ tags: [fictional, books]
 
 # Fictional books
 
+- [Scandor](books/fictional/poz-scandor.md)
 
 
-<div style="text-align: center;" markdown="1"> [Books](/) 
+<div style="text-align: center;" markdown="1"> [Books](/books) 
 </div>  
