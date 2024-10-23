@@ -7,5 +7,5 @@ permalink: "books/non-fictional"
 # Non-fictional books
 
 
-<div style="text-align: center;" markdown="1"> [Books](books) 
+<div style="text-align: center;" markdown="1"> [Books](/) 
 </div>  

@@ -6,5 +6,5 @@ permalink: "papers"
 
 # Papers
 
-<div style="text-align: center;" markdown="1"> [Mainpage](knowlarium) 
+<div style="text-align: center;" markdown="1"> [Mainpage](/) 
 </div>  
