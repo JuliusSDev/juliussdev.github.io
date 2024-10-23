@@ -11,3 +11,5 @@ url: "https://juliussdev.github.io"
 github_username:  JuliusSDev
 
 theme: minima
+plugins:
+  - jekyll-feed
