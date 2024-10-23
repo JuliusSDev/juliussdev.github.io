@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Fictional books"
-permalink: "/books/fictional"
+permalink: "/books/fictional/index.md"
 ---
 
 # Fictional books

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Non-fictional books"
-permalink: "/books/non-fictional"
+permalink: "/books/non-fictional/index.md"
 ---
 
 # Non-fictional books
