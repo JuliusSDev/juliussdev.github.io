@@ -3,4 +3,4 @@ layout: default
 ---
 
 
-- [Books](books/index.md)
+- [Books](books)
