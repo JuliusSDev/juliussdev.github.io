@@ -6,8 +6,8 @@ permalink: "books"
 
 # Books
 
- - [Fictional books](fictional)
- - [Non-fictional books](non-fictional)
+ - [Fictional books](books/fictional)
+ - [Non-fictional books](books/non-fictional)
 
  <div style="text-align: center;" markdown="1"> [Mainpage](../index.md) 
 </div>  
