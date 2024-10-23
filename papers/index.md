@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Papers"
-permalink: "/papers"
+permalink: "https://juliussdev.github.io/papers"
 ---
 
 # Papers

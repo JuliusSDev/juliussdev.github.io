@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "books"
-permalink: "/books/index.md"
+permalink: "https://juliussdev.github.io/books/index.md"
 ---
 
 # Books
