@@ -6,7 +6,7 @@ permalink: "/books"
 
 # Books
 
- - [fictional](fictional/)
+ - [fictional](fictional/index.md)
 
- <div style="text-align: center;" markdown="1"> [Mainpage](../) 
+ <div style="text-align: center;" markdown="1"> [Mainpage](../index.md) 
 </div>  

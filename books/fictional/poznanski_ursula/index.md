@@ -11,5 +11,5 @@ Here you'll find pages related to Subdirectory 1.
 
 - [Shelter](shelter.md)
 
-<div style="text-align: center;" markdown="1"> [Fictional](../) 
+<div style="text-align: center;" markdown="1"> [Fictional](../index.md) 
 </div>  

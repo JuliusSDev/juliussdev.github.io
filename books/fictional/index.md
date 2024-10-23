@@ -6,7 +6,7 @@ permalink: "/books/fictional"
 
 # Fictional books
 
-- [Poznanski, Ursula](poznanski_ursula/)
+- [Poznanski, Ursula](poznanski_ursula/index.md)
 
-<div style="text-align: center;" markdown="1"> [Books](../) 
+<div style="text-align: center;" markdown="1"> [Books](../index.md) 
 </div>  
